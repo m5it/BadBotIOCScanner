@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+db/hashes.json
+db/hashes.db
+db/*.etag
+db/*.lastmod
+db/*.raw.json
+scan_report.json
+quarantine/
